@@ -6,10 +6,11 @@ public class Moni {
 
 
 		System.out.println("GitHub");
-		public void m1()
-		{
-			System.out.println("M1---GitHub");
-		}
+		
+	}
+	public void m1()
+	{
+		System.out.println("m1");
 	}
 
 }
